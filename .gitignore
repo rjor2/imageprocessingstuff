@@ -1,0 +1,10 @@
+
+*.py[cod]
+
+*.jpg
+*.csv
+*.png
+
+.vagrant
+db/*
+outsideimages/*
